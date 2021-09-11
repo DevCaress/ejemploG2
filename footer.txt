@@ -1,1 +1,4 @@
 footer
+<footer>
+  <p>Eso es todo amigos</p>
+</footer>
